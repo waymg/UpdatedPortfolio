@@ -1,2 +1,2 @@
 # Updated Portfolio
-![image](./PortfolioView.png)
+![image](./PortfolioPreview.png)
